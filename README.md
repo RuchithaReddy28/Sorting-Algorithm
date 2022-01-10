@@ -51,7 +51,7 @@ print(value)
 
 ```
 ## Output:
-![output]()
+![output](https://github.com/RuchithaReddy28/Sorting-Algorithm/blob/main/ex%2009(1).png?raw=true)
 
 ## Program:
 
@@ -89,7 +89,7 @@ print(value)
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/RuchithaReddy28/Sorting-Algorithm/blob/main/ex%2009(2).png?raw=true)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
